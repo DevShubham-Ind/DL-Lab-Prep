@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Data files (optional - only if they are large or generated)
+*.csv
+*.tsv
+*.data
+*.npy
+*.npz
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# TensorFlow logs and checkpoints
+*.ckpt
+*.pb
+*.tflite
+*.tensorboard-info/
+events.out.tfevents.*
+
+# PyTorch checkpoints
+*.pt
+*.pth
+
+# Model folders
+runs/
+logs/
+checkpoints/
+
+# Matplotlib and cache
+.matplotlib/
+*.png
+*.svg
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Conda
+*.conda
+*.ipynb_checkpoints/
+*.egg-info/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.nb.html
+
+# Notebook conversion outputs
+*.nbconvert/
+
+# PyCharm
+.idea/
+
+# Other caches
+__pycache__/
+.cache/
